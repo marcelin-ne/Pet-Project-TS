@@ -32,5 +32,8 @@
     "prepare": "husky install",
     "test": "jest --passWithNoTests"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "zod": "^3.23.8"
+  }
 }
